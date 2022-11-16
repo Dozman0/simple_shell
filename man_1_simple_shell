@@ -1,7 +1,7 @@
 B.\"Manpage for simple shell 
 
-.\"Created by Nwabueze Franklin et Asiwaju Ifeoluwa
-.TH HSH 1 "June 2022" "ALX Africa" "SHELL - Simple Shell man page"
+.\"Created by Chidozie Ogbunude and Christian Okojie
+.TH HSH 1 "November 2022" "ALX Africa" "SHELL - Simple Shell man page"
 
 .SH NAME
 hsh\fR \- simple UNIX command interpreter
